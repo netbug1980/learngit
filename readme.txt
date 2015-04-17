@@ -3,4 +3,4 @@ Git is free software distributed under the GEE.
 Git has a mutable index called stage.
 
 Creating a new branch is quick simplely.
-big feature
+big feature small
